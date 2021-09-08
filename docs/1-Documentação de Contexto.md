@@ -1,46 +1,36 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Atualmente, os meios de interação com o mundo virtual se multiplicaram de várias formas, muitos desses recursos podem ser utilizados para fins didáticos, como, por exemplo, a gamificação. Por mais que este engenho se adeque de muitas maneiras no ensino, tem consigo o desafio de encontrar meios/aplicativos de maneira que possam ser usados nas atividades docentes. O objetivo deste projeto será desenvolver uma aplicação web para auxiliar na matéria de ciências/biologia para crianças do 6º ano afim de proporcioná-las uma maneira descontraída e divertida de aula, apresentando um ensino adepto ao mundo tecnológico.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+  De acordo com uma pesquisa feita por Inês Nunes de Melo Dittberner para dissertação de mestrado, mostra a seguinte entrevista com alguns estudantes que disseram o porquê não     gostam dos estudos: <br>
+ “(...)Outros alunos dizem não gostar, pois: <br>
+  J. - .(...) não porque é muito chato, não gosto de ler e tem assuntos muito chatos. <br>
+ M. - .(...) não muito, porque é muito chato, na verdade queria ficar em casa, mas é minha responsabilidade aprender para minha vida profissional. <br>
+  J. - .(...) um pouco, pois é a mesma rotina de segunda a sexta. Enjoa, mais sei que vai valer a pena. <br>
+  J. - .(...) mais ou menos, porque cansa, estressa, mas tem seu lado bom. <br>
+ B. - (...) um pouco, pois ficar muito tempo sentado na cadeira enjoa, mas sei que só assim vou ter um futuro bom. <br>
+ A. - (...) sim para encontrar com meus amigos e não ficar sozinha em casa. (...)”<br>
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+ Além da pesquisa mostrada anteriormente, dados do site https://valor.globo.com mostra o seguinte gráfico: <br><br>
+ <img style="width: 50%;" src="https://s2.glbimg.com/mw_Rwvh-H_aHv2xCb_tePSnsbBA=/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/9/h/vsuDi0SjyEwZ0kMQK3pw/arte11bra-111-jovens-a4.jpg"/>
+ 
+ https://valor.globo.com/brasil/noticia/2019/11/11/jovens-fora-da-escola-sao-12-um-terco-sai-por-desinteresse.ghtml
+ 
+ Diante dos fatos apresentados acima, nota-se que o desestimulo acadêmico é algo preocupante. Com isso, nós, alunos da PUC Minas, em parceria com o Colégio Objetivo trazemos este projeto para propor uma maior interatividade dos alunos na aula e desenvolver o interesse deles pelos estudos de uma maneira divertida.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo do projeto, além de proporcionar diferentes maneiras de estudo, também se concentra em desenvolver o conceito de tecnologia na escola, apontando os principais fatores que são:<br>
+<br> 1.	A gamificação para o ensino de matérias que até então são apresentadas aos alunos com teor tradicional acadêmico, ou seja, com uso de livros. Podendo, infelizmente, ocorrer ao desinteresse por parte dos alunos.
+<br> 2.	Maior participação e, consequentemente, maior a taxa de aprendizado ocorrido pelas amplas maneiras de obter o conhecimento através dos jogos.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+  Os games conseguem manter os jogadores concentrados em uma atividade durante horas, apenas para vencer um amigo, ultrapassar desafios e descobrir o fim da história (K      Bissolotti, HG Nogueira, ATC Pereira - RENOTE, 2014). Além disso, todo o esforço e desempenho obtido por meio da experiência com a gamificação, tem consigo o fato de apresentarem uma maior disposição diante o assunto abordado e, também, aumentar a curiosidade para que o próximo desafio seja conquistado, visto que estimula uma conduta mais ativa dos estudantes.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O público-alvo do projeto são professores que buscam maneiras descontraídas de ensino. Ademais, procuram proporcionar aulas mais chamativas a alunos que estão desmotivados com o aprendizado. Além disso, é direcionado também aos estudantes com diferentes perfis acadêmicos, desde as crianças até os jovens, já que, por envolver jogos e desafios a eles, promovem uma maior curiosidade e disposição para resolvê-los.
