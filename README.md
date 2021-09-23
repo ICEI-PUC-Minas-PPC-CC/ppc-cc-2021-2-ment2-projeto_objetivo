@@ -6,10 +6,11 @@
 
 ## Integrantes
 
-- Camila Figueiredo
-- Giovana Gabrielle
-- Raul André 35991417389
-- Daniel Mendes
+- Camila Figueiredo -> (35) 98812 - 9819
+- Giovana Gabrielle -> (35) 9950 - 9751
+- Raul André -> (35) 9141 - 7389
+- Daniel Mendes -> (35) 9903 - 5552
+- Raphael -> (19) 99896 - 6153
 
 ## Professor
 
