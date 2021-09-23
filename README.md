@@ -8,9 +8,9 @@
 
 - Camila Figueiredo -> (35) 98812 - 9819
 - Giovana Gabrielle -> (35) 9950 - 9751
-- Raul André -> (35) 9141 - 7389
-- Daniel Mendes -> (35) 9903 - 5552
-- Raphael -> (19) 99896 - 6153
+- Raul André        -> (35) 9141 - 7389
+- Daniel Mendes     -> (35) 9903 - 5552
+- Raphael           -> (19) 99896 - 6153
 
 ## Professor
 
