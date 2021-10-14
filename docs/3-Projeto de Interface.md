@@ -10,3 +10,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 <img style="width: 40em;" src="/Interface/jogo.png"/>
 
 Acima mostra a interface do jogo, mapeando as possíveis ações dos usuários, como, por exemplo, as configurações, ação ao clicar em "Jogar", etc. A partir da modalidade escolhida (fácil, médio e difícil) o jogo tem seu inicio, sendo desenvolvido atualmente.
+
+## Relatório
+
+Este projeto de interface foi apresentado a parceira do Colégio Objetivo, na qual o projeto vem sendo desenvolvido em conjunto, sendo aprovado pela mesma.
