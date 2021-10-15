@@ -1,15 +1,17 @@
 
 # Projeto de Interface
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+ Principais interfaces da plataforma foram desenvolvidas partindo das histórias de usuários abordados anteriormente. Em que, o público alvo se concentra em adolescentes e professores.
 
- Principais interfaces da plataforma foram desenvolvidas partindo das histórias de usuários abordados anteriormente. Em que, o público alvo se concentra em adolescentes e peofessores.
+## Estudo de interface
+
+<img style="width: 24%;" src="/Interface/foto1.jpeg"/> <img style="width: 24%;" src="/Interface/foto2.jpeg"/> <img style="width: 24%;" src="/Interface/foto3.jpeg"/> <img style="width: 24%" src="/Interface/foto4.jpeg"/>
 
 ## User Flow
 
-<img style="width: 40em;" src="/Interface/jogo.png"/>
+<img style="width: 24%;" src="/Interface/fotoj1.jpeg"/> <img style="width: 24%;" src="/Interface/fotoj3.jpeg"/> <img style="width: 24%" src="/Interface/fotoj4.jpeg"/> <img style="width: 24%;" src="/Interface/fotoj2.jpeg"/>
 
-Acima mostra a interface do jogo, mapeando as possíveis ações dos usuários, como, por exemplo, as configurações, ação ao clicar em "Jogar", etc. A partir da modalidade escolhida (fácil, médio e difícil) o jogo tem seu inicio, sendo desenvolvido atualmente.
+Acima mostra a interface do jogo, mapeando as possíveis ações dos usuários, como, por exemplo, as configurações, em que, o ato de clicar em "Music" leva ao bloqueamento da música durante o jogo, deixando o botão vermelho. Além disso, a ação de 'click' em "Jogar" exibe a tela de modalidades (fácil, médio e difícil) tendo o inicio do jogo por meio da opção escolhida. Atualmente, a interface principal do jogo está em desenvolvimento.
 
 ## Relatório
 
